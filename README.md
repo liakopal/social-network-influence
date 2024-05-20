@@ -81,5 +81,4 @@ This project analyzes social network interactions using various algorithms to ca
 You can find a similar version of this project in another GitHub account here: https://github.com/alexliak/social-media-influence.git
 
 ### Adjusting the Number of Users
-
-To change the number of users for testing, you can modify the range in line 267 of main.py. This allows you to customize the size of the social network for different test scenarios.
+adjust the number of ntework's users in main.py
