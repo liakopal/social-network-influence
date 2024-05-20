@@ -81,4 +81,4 @@ This project analyzes social network interactions using various algorithms to ca
 You can find a similar version of this project in another GitHub account here: https://github.com/alexliak/social-media-influence.git
 
 ### Adjusting the Number of Users
-adjust the number of ntework's users in main.py
+adjust the number of network's users in main.py
