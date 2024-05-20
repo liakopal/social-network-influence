@@ -34,7 +34,7 @@ This project analyzes social network interactions using various algorithms to ca
 2. Navigate to the project directory:
 
     ```sh
-    cd social-network-influence
+    cd social-network
     ```
 
 3. Create a virtual environment:
@@ -63,15 +63,23 @@ This project analyzes social network interactions using various algorithms to ca
 
 ## Usage
 
-Run the main script:
+1. Run the main script:
 
-```sh
-python src/main.py
+    ```sh
+    python src/main.py
 
-Run the test script:
-```sh
-pytest -s .\src\test\
+2. Run the test script:
+    ```sh
+    pytest -s .\src\test\
 
-Run an individual test file:
-```sh
-pytest src/tests/test_specific_file.py
+3. Run an individual test file:
+    ```sh
+    pytest src/tests/test_specific_file.py
+
+### Related Project
+
+You can find a similar version of this project in another GitHub account here: https://github.com/liakopal/social-network-influence.git
+
+### Adjusting the Number of Users
+
+To change the number of users for testing, you can modify the range in line 267 of main.py. This allows you to customize the size of the social network for different test scenarios.
