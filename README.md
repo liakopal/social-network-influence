@@ -78,7 +78,7 @@ This project analyzes social network interactions using various algorithms to ca
 
 ### Related Project
 
-You can find a similar version of this project in another GitHub account here: https://github.com/liakopal/social-network-influence.git
+You can find a similar version of this project in another GitHub account here: https://github.com/alexliak/social-media-influence.git
 
 ### Adjusting the Number of Users
 
