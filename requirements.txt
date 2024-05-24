@@ -2,5 +2,4 @@
 ### `requirements.txt`
 
 ```txt
-pytest
-faker
+termcolor

@@ -1,0 +1,735 @@
+========== Small Network Analysis Summary ==========
+Total members: 10
+Total followings: 4
+Total likes: 90
+Total comments: 81
+Total engagements: 171
+
+Member 1: Follows 1 others, Followed by 0
+Likes given: {8: 11} (Total given: 11)
+Likes received: 11
+Comments given: {5: 1} (Total given: 1)
+Comments received: 1
+Comments received from: {2: 0, 3: 0, 4: 0, 5: 1, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0}
+Engagement rate: 0.00
+
+Shortest path to member 2 using BFS: 1 steps
+Path: [1, 2]
+Shortest path to member 3 using BFS: 2 steps
+Path: [1, 2, 3]
+Shortest path to member 4 using BFS: 3 steps
+Path: [1, 2, 3, 4]
+Shortest path to member 5 using BFS: 4 steps
+Path: [1, 2, 3, 4, 5]
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 2 using DFS: [1, 2]
+Engagement score: 45
+Highest engagement path to member 3 using DFS: [1, 2, 3]
+Engagement score: 50
+Highest engagement path to member 4 using DFS: [1, 2, 3, 4]
+Engagement score: 74
+Highest engagement path to member 5 using DFS: [1, 2, 3, 4, 5]
+Engagement score: 78
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 2: Follows 1 others, Followed by 1
+Likes given: {4: 5, 3: 1} (Total given: 6)
+Likes received: 6
+Comments given: {7: 16, 1: 4, 4: 2, 9: 5} (Total given: 27)
+Comments received: 27
+Comments received from: {1: 4, 3: 0, 4: 2, 5: 0, 6: 0, 7: 16, 8: 0, 9: 5, 10: 0}
+Engagement rate: 3300.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 3 using BFS: 1 steps
+Path: [2, 3]
+Shortest path to member 4 using BFS: 2 steps
+Path: [2, 3, 4]
+Shortest path to member 5 using BFS: 3 steps
+Path: [2, 3, 4, 5]
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 3 using DFS: [2, 3]
+Engagement score: 38
+Highest engagement path to member 4 using DFS: [2, 3, 4]
+Engagement score: 62
+Highest engagement path to member 5 using DFS: [2, 3, 4, 5]
+Engagement score: 66
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 3: Follows 1 others, Followed by 1
+Likes given: {} (Total given: 0)
+Likes received: 0
+Comments given: {5: 5} (Total given: 5)
+Comments received: 5
+Comments received from: {1: 0, 2: 0, 4: 0, 5: 5, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0}
+Engagement rate: 500.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 2 using BFS: No path found
+Shortest path to member 4 using BFS: 1 steps
+Path: [3, 4]
+Shortest path to member 5 using BFS: 2 steps
+Path: [3, 4, 5]
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 2 using DFS: No path found
+Highest engagement path to member 4 using DFS: [3, 4]
+Engagement score: 29
+Highest engagement path to member 5 using DFS: [3, 4, 5]
+Engagement score: 33
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 4: Follows 1 others, Followed by 1
+Likes given: {10: 4, 5: 8} (Total given: 12)
+Likes received: 12
+Comments given: {10: 1, 5: 9, 8: 2} (Total given: 12)
+Comments received: 12
+Comments received from: {1: 0, 2: 0, 3: 0, 5: 9, 6: 0, 7: 0, 8: 2, 9: 0, 10: 1}
+Engagement rate: 2400.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 2 using BFS: No path found
+Shortest path to member 3 using BFS: No path found
+Shortest path to member 5 using BFS: 1 steps
+Path: [4, 5]
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 2 using DFS: No path found
+Highest engagement path to member 3 using DFS: No path found
+Highest engagement path to member 5 using DFS: [4, 5]
+Engagement score: 28
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 5: Follows 0 others, Followed by 1
+Likes given: {} (Total given: 0)
+Likes received: 0
+Comments given: {9: 4} (Total given: 4)
+Comments received: 4
+Comments received from: {1: 0, 2: 0, 3: 0, 4: 0, 6: 0, 7: 0, 8: 0, 9: 4, 10: 0}
+Engagement rate: 400.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 2 using BFS: No path found
+Shortest path to member 3 using BFS: No path found
+Shortest path to member 4 using BFS: No path found
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 2 using DFS: No path found
+Highest engagement path to member 3 using DFS: No path found
+Highest engagement path to member 4 using DFS: No path found
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 6: Follows 0 others, Followed by 0
+Likes given: {2: 4, 9: 6} (Total given: 10)
+Likes received: 10
+Comments given: {4: 4} (Total given: 4)
+Comments received: 4
+Comments received from: {1: 0, 2: 0, 3: 0, 4: 4, 5: 0, 7: 0, 8: 0, 9: 0, 10: 0}
+Engagement rate: 0.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 2 using BFS: No path found
+Shortest path to member 3 using BFS: No path found
+Shortest path to member 4 using BFS: No path found
+Shortest path to member 5 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 2 using DFS: No path found
+Highest engagement path to member 3 using DFS: No path found
+Highest engagement path to member 4 using DFS: No path found
+Highest engagement path to member 5 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 7: Follows 0 others, Followed by 0
+Likes given: {9: 14} (Total given: 14)
+Likes received: 14
+Comments given: {3: 4} (Total given: 4)
+Comments received: 4
+Comments received from: {1: 0, 2: 0, 3: 4, 4: 0, 5: 0, 6: 0, 8: 0, 9: 0, 10: 0}
+Engagement rate: 0.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 2 using BFS: No path found
+Shortest path to member 3 using BFS: No path found
+Shortest path to member 4 using BFS: No path found
+Shortest path to member 5 using BFS: No path found
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 2 using DFS: No path found
+Highest engagement path to member 3 using DFS: No path found
+Highest engagement path to member 4 using DFS: No path found
+Highest engagement path to member 5 using DFS: No path found
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 8: Follows 0 others, Followed by 0
+Likes given: {1: 8, 4: 5, 5: 1} (Total given: 14)
+Likes received: 14
+Comments given: {9: 7, 4: 9} (Total given: 16)
+Comments received: 16
+Comments received from: {1: 0, 2: 0, 3: 0, 4: 9, 5: 0, 6: 0, 7: 0, 9: 7, 10: 0}
+Engagement rate: 0.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 2 using BFS: No path found
+Shortest path to member 3 using BFS: No path found
+Shortest path to member 4 using BFS: No path found
+Shortest path to member 5 using BFS: No path found
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 2 using DFS: No path found
+Highest engagement path to member 3 using DFS: No path found
+Highest engagement path to member 4 using DFS: No path found
+Highest engagement path to member 5 using DFS: No path found
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 9: Follows 0 others, Followed by 0
+Likes given: {10: 7, 6: 2, 3: 2} (Total given: 11)
+Likes received: 11
+Comments given: {4: 8} (Total given: 8)
+Comments received: 8
+Comments received from: {1: 0, 2: 0, 3: 0, 4: 8, 5: 0, 6: 0, 7: 0, 8: 0, 10: 0}
+Engagement rate: 0.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 2 using BFS: No path found
+Shortest path to member 3 using BFS: No path found
+Shortest path to member 4 using BFS: No path found
+Shortest path to member 5 using BFS: No path found
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 10 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 2 using DFS: No path found
+Highest engagement path to member 3 using DFS: No path found
+Highest engagement path to member 4 using DFS: No path found
+Highest engagement path to member 5 using DFS: No path found
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 10 using DFS: No path found
+Member 10: Follows 0 others, Followed by 0
+Likes given: {1: 9, 2: 1, 3: 2} (Total given: 12)
+Likes received: 12
+Comments given: {} (Total given: 0)
+Comments received: 0
+Comments received from: {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0}
+Engagement rate: 0.00
+
+Shortest path to member 1 using BFS: No path found
+Shortest path to member 2 using BFS: No path found
+Shortest path to member 3 using BFS: No path found
+Shortest path to member 4 using BFS: No path found
+Shortest path to member 5 using BFS: No path found
+Shortest path to member 6 using BFS: No path found
+Shortest path to member 7 using BFS: No path found
+Shortest path to member 8 using BFS: No path found
+Shortest path to member 9 using BFS: No path found
+Highest engagement path to member 1 using DFS: No path found
+Highest engagement path to member 2 using DFS: No path found
+Highest engagement path to member 3 using DFS: No path found
+Highest engagement path to member 4 using DFS: No path found
+Highest engagement path to member 5 using DFS: No path found
+Highest engagement path to member 6 using DFS: No path found
+Highest engagement path to member 7 using DFS: No path found
+Highest engagement path to member 8 using DFS: No path found
+Highest engagement path to member 9 using DFS: No path found
+
+========== Large 1 Network Analysis Summary ==========
+Total members: 10
+Total followings: 54
+Total likes: 217
+Total comments: 238
+Total engagements: 455
+
+Member 1: Follows 6 others, Followed by 2
+Likes given: {7: 6, 3: 10, 10: 1} (Total given: 17)
+Likes received: 17
+Comments given: {5: 3, 2: 5, 7: 6, 8: 9, 6: 6} (Total given: 29)
+Comments received: 29
+Comments received from: {2: 5, 5: 3, 6: 6, 7: 6, 8: 9}
+Engagement rate: 2300.00
+
+Shortest path to member 2 using BFS: 2 steps
+Path: [1, 6, 2]
+Shortest path to member 3 using BFS: 2 steps
+Path: [1, 6, 3]
+Shortest path to member 4 using BFS: 1 steps
+Path: [1, 4]
+Shortest path to member 5 using BFS: 2 steps
+Path: [1, 7, 5]
+Shortest path to member 6 using BFS: 1 steps
+Path: [1, 6]
+Shortest path to member 7 using BFS: 1 steps
+Path: [1, 7]
+Shortest path to member 8 using BFS: 1 steps
+Path: [1, 8]
+Shortest path to member 9 using BFS: 1 steps
+Path: [1, 9]
+Shortest path to member 10 using BFS: 1 steps
+Path: [1, 10]
+Highest engagement path to member 2 using DFS: [1, 8, 3, 6, 4, 2]
+Engagement score: 333
+Highest engagement path to member 3 using DFS: [1, 4, 2, 6, 8, 3]
+Engagement score: 333
+Highest engagement path to member 4 using DFS: [1, 8, 3, 6, 2, 4]
+Engagement score: 333
+Highest engagement path to member 5 using DFS: [1, 6, 8, 4, 2, 5]
+Engagement score: 323
+Highest engagement path to member 6 using DFS: [1, 8, 3, 4, 2, 6]
+Engagement score: 333
+Highest engagement path to member 7 using DFS: [1, 4, 2, 6, 8, 7]
+Engagement score: 330
+Highest engagement path to member 8 using DFS: [1, 4, 2, 6, 3, 8]
+Engagement score: 333
+Highest engagement path to member 9 using DFS: [1, 4, 2, 6, 8, 9]
+Engagement score: 320
+Highest engagement path to member 10 using DFS: [1, 4, 2, 6, 8, 10]
+Engagement score: 325
+Member 2: Follows 4 others, Followed by 6
+Likes given: {3: 14, 1: 4, 4: 1, 6: 6, 8: 5, 10: 9} (Total given: 39)
+Likes received: 39
+Comments given: {1: 5, 4: 0, 5: 3} (Total given: 8)
+Comments received: 8
+Comments received from: {1: 5, 4: 0, 5: 3}
+Engagement rate: 783.33
+
+Shortest path to member 1 using BFS: 2 steps
+Path: [2, 10, 1]
+Shortest path to member 3 using BFS: 2 steps
+Path: [2, 6, 3]
+Shortest path to member 4 using BFS: 1 steps
+Path: [2, 4]
+Shortest path to member 5 using BFS: 1 steps
+Path: [2, 5]
+Shortest path to member 6 using BFS: 1 steps
+Path: [2, 6]
+Shortest path to member 7 using BFS: 2 steps
+Path: [2, 5, 7]
+Shortest path to member 8 using BFS: 2 steps
+Path: [2, 5, 8]
+Shortest path to member 9 using BFS: 2 steps
+Path: [2, 5, 9]
+Shortest path to member 10 using BFS: 1 steps
+Path: [2, 10]
+Highest engagement path to member 1 using DFS: [2, 6, 8, 4, 10, 1]
+Engagement score: 325
+Highest engagement path to member 3 using DFS: [2, 4, 10, 6, 8, 3]
+Engagement score: 318
+Highest engagement path to member 4 using DFS: [2, 6, 8, 10, 1, 4]
+Engagement score: 325
+Highest engagement path to member 5 using DFS: [2, 6, 8, 4, 10, 5]
+Engagement score: 308
+Highest engagement path to member 6 using DFS: [2, 5, 8, 4, 10, 6]
+Engagement score: 308
+Highest engagement path to member 7 using DFS: [2, 4, 10, 6, 8, 7]
+Engagement score: 315
+Highest engagement path to member 8 using DFS: [2, 4, 10, 1, 6, 8]
+Engagement score: 325
+Highest engagement path to member 9 using DFS: [2, 4, 10, 6, 8, 9]
+Engagement score: 305
+Highest engagement path to member 10 using DFS: [2, 6, 8, 3, 4, 10]
+Engagement score: 318
+Member 3: Follows 8 others, Followed by 4
+Likes given: {10: 10, 4: 4} (Total given: 14)
+Likes received: 14
+Comments given: {4: 16, 8: 9} (Total given: 25)
+Comments received: 25
+Comments received from: {4: 16, 8: 9}
+Engagement rate: 975.00
+
+Shortest path to member 1 using BFS: 2 steps
+Path: [3, 9, 1]
+Shortest path to member 2 using BFS: 1 steps
+Path: [3, 2]
+Shortest path to member 4 using BFS: 1 steps
+Path: [3, 4]
+Shortest path to member 5 using BFS: 1 steps
+Path: [3, 5]
+Shortest path to member 6 using BFS: 1 steps
+Path: [3, 6]
+Shortest path to member 7 using BFS: 1 steps
+Path: [3, 7]
+Shortest path to member 8 using BFS: 1 steps
+Path: [3, 8]
+Shortest path to member 9 using BFS: 1 steps
+Path: [3, 9]
+Shortest path to member 10 using BFS: 1 steps
+Path: [3, 10]
+Highest engagement path to member 1 using DFS: [3, 6, 8, 4, 10, 1]
+Engagement score: 317
+Highest engagement path to member 2 using DFS: [3, 8, 7, 6, 4, 2]
+Engagement score: 323
+Highest engagement path to member 4 using DFS: [3, 8, 7, 6, 2, 4]
+Engagement score: 323
+Highest engagement path to member 5 using DFS: [3, 6, 8, 4, 2, 5]
+Engagement score: 316
+Highest engagement path to member 6 using DFS: [3, 7, 8, 4, 2, 6]
+Engagement score: 323
+Highest engagement path to member 7 using DFS: [3, 4, 2, 6, 8, 7]
+Engagement score: 323
+Highest engagement path to member 8 using DFS: [3, 4, 2, 10, 6, 8]
+Engagement score: 318
+Highest engagement path to member 9 using DFS: [3, 4, 2, 6, 8, 9]
+Engagement score: 313
+Highest engagement path to member 10 using DFS: [3, 4, 2, 6, 8, 10]
+Engagement score: 318
+Member 4: Follows 2 others, Followed by 8
+Likes given: {6: 16, 7: 18, 10: 5, 5: 9, 2: 4} (Total given: 52)
+Likes received: 52
+Comments given: {5: 5, 3: 7, 9: 6, 7: 8, 10: 0} (Total given: 26)
+Comments received: 26
+Comments received from: {3: 7, 5: 5, 7: 8, 9: 6, 10: 0}
+Engagement rate: 975.00
+
+Shortest path to member 1 using BFS: 2 steps
+Path: [4, 10, 1]
+Shortest path to member 2 using BFS: 1 steps
+Path: [4, 2]
+Shortest path to member 3 using BFS: 2 steps
+Path: [4, 10, 3]
+Shortest path to member 5 using BFS: 2 steps
+Path: [4, 2, 5]
+Shortest path to member 6 using BFS: 2 steps
+Path: [4, 2, 6]
+Shortest path to member 7 using BFS: 2 steps
+Path: [4, 10, 7]
+Shortest path to member 8 using BFS: 3 steps
+Path: [4, 2, 5, 8]
+Shortest path to member 9 using BFS: 2 steps
+Path: [4, 10, 9]
+Shortest path to member 10 using BFS: 1 steps
+Path: [4, 10]
+Highest engagement path to member 1 using DFS: [4, 2, 6, 8, 10, 1]
+Engagement score: 325
+Highest engagement path to member 2 using DFS: [4, 10, 6, 8, 3, 2]
+Engagement score: 318
+Highest engagement path to member 3 using DFS: [4, 2, 6, 8, 10, 3]
+Engagement score: 318
+Highest engagement path to member 5 using DFS: [4, 2, 6, 8, 3, 5]
+Engagement score: 316
+Highest engagement path to member 6 using DFS: [4, 10, 1, 8, 3, 6]
+Engagement score: 317
+Highest engagement path to member 7 using DFS: [4, 2, 6, 8, 3, 7]
+Engagement score: 323
+Highest engagement path to member 8 using DFS: [4, 2, 6, 10, 1, 8]
+Engagement score: 325
+Highest engagement path to member 9 using DFS: [4, 2, 6, 8, 3, 9]
+Engagement score: 313
+Highest engagement path to member 10 using DFS: [4, 2, 6, 8, 3, 10]
+Engagement score: 318
+Member 5: Follows 7 others, Followed by 4
+Likes given: {2: 9, 1: 5} (Total given: 14)
+Likes received: 14
+Comments given: {7: 4, 10: 9, 6: 2} (Total given: 15)
+Comments received: 15
+Comments received from: {6: 2, 7: 4, 10: 9}
+Engagement rate: 725.00
+
+Shortest path to member 1 using BFS: 2 steps
+Path: [5, 9, 1]
+Shortest path to member 2 using BFS: 1 steps
+Path: [5, 2]
+Shortest path to member 3 using BFS: 2 steps
+Path: [5, 6, 3]
+Shortest path to member 4 using BFS: 1 steps
+Path: [5, 4]
+Shortest path to member 6 using BFS: 1 steps
+Path: [5, 6]
+Shortest path to member 7 using BFS: 1 steps
+Path: [5, 7]
+Shortest path to member 8 using BFS: 1 steps
+Path: [5, 8]
+Shortest path to member 9 using BFS: 1 steps
+Path: [5, 9]
+Shortest path to member 10 using BFS: 1 steps
+Path: [5, 10]
+Highest engagement path to member 1 using DFS: [5, 6, 8, 4, 10, 1]
+Engagement score: 307
+Highest engagement path to member 2 using DFS: [5, 8, 3, 6, 4, 2]
+Engagement score: 316
+Highest engagement path to member 3 using DFS: [5, 4, 2, 6, 8, 3]
+Engagement score: 316
+Highest engagement path to member 4 using DFS: [5, 8, 3, 6, 2, 4]
+Engagement score: 316
+Highest engagement path to member 6 using DFS: [5, 8, 3, 4, 2, 6]
+Engagement score: 316
+Highest engagement path to member 7 using DFS: [5, 4, 2, 6, 8, 7]
+Engagement score: 313
+Highest engagement path to member 8 using DFS: [5, 4, 2, 6, 3, 8]
+Engagement score: 316
+Highest engagement path to member 9 using DFS: [5, 4, 2, 6, 8, 9]
+Engagement score: 303
+Highest engagement path to member 10 using DFS: [5, 4, 2, 6, 8, 10]
+Engagement score: 308
+Member 6: Follows 5 others, Followed by 6
+Likes given: {10: 13, 3: 10} (Total given: 23)
+Likes received: 23
+Comments given: {9: 11, 2: 7, 3: 14, 8: 4, 4: 1} (Total given: 37)
+Comments received: 37
+Comments received from: {2: 7, 3: 14, 4: 1, 8: 4, 9: 11}
+Engagement rate: 1000.00
+
+Shortest path to member 1 using BFS: 2 steps
+Path: [6, 10, 1]
+Shortest path to member 2 using BFS: 1 steps
+Path: [6, 2]
+Shortest path to member 3 using BFS: 1 steps
+Path: [6, 3]
+Shortest path to member 4 using BFS: 1 steps
+Path: [6, 4]
+Shortest path to member 5 using BFS: 2 steps
+Path: [6, 10, 5]
+Shortest path to member 7 using BFS: 2 steps
+Path: [6, 8, 7]
+Shortest path to member 8 using BFS: 1 steps
+Path: [6, 8]
+Shortest path to member 9 using BFS: 2 steps
+Path: [6, 8, 9]
+Shortest path to member 10 using BFS: 1 steps
+Path: [6, 10]
+Highest engagement path to member 1 using DFS: [6, 8, 4, 2, 10, 1]
+Engagement score: 325
+Highest engagement path to member 2 using DFS: [6, 8, 10, 1, 4, 2]
+Engagement score: 325
+Highest engagement path to member 3 using DFS: [6, 8, 4, 2, 10, 3]
+Engagement score: 318
+Highest engagement path to member 4 using DFS: [6, 2, 10, 1, 8, 4]
+Engagement score: 325
+Highest engagement path to member 5 using DFS: [6, 8, 3, 4, 2, 5]
+Engagement score: 316
+Highest engagement path to member 7 using DFS: [6, 8, 4, 2, 10, 7]
+Engagement score: 315
+Highest engagement path to member 8 using DFS: [6, 4, 2, 10, 1, 8]
+Engagement score: 325
+Highest engagement path to member 9 using DFS: [6, 8, 4, 2, 10, 9]
+Engagement score: 305
+Highest engagement path to member 10 using DFS: [6, 8, 3, 4, 2, 10]
+Engagement score: 318
+Member 7: Follows 5 others, Followed by 6
+Likes given: {10: 1, 9: 3, 3: 5, 8: 2, 5: 9, 4: 3} (Total given: 23)
+Likes received: 23
+Comments given: {4: 8, 2: 5} (Total given: 13)
+Comments received: 13
+Comments received from: {2: 5, 4: 8}
+Engagement rate: 600.00
+
+Shortest path to member 1 using BFS: 2 steps
+Path: [7, 10, 1]
+Shortest path to member 2 using BFS: 1 steps
+Path: [7, 2]
+Shortest path to member 3 using BFS: 2 steps
+Path: [7, 6, 3]
+Shortest path to member 4 using BFS: 2 steps
+Path: [7, 5, 4]
+Shortest path to member 5 using BFS: 1 steps
+Path: [7, 5]
+Shortest path to member 6 using BFS: 1 steps
+Path: [7, 6]
+Shortest path to member 8 using BFS: 1 steps
+Path: [7, 8]
+Shortest path to member 9 using BFS: 2 steps
+Path: [7, 5, 9]
+Shortest path to member 10 using BFS: 1 steps
+Path: [7, 10]
+Highest engagement path to member 1 using DFS: [7, 6, 8, 4, 10, 1]
+Engagement score: 314
+Highest engagement path to member 2 using DFS: [7, 8, 3, 6, 4, 2]
+Engagement score: 323
+Highest engagement path to member 3 using DFS: [7, 8, 4, 2, 6, 3]
+Engagement score: 323
+Highest engagement path to member 4 using DFS: [7, 8, 3, 6, 2, 4]
+Engagement score: 323
+Highest engagement path to member 5 using DFS: [7, 6, 8, 4, 2, 5]
+Engagement score: 313
+Highest engagement path to member 6 using DFS: [7, 8, 3, 4, 2, 6]
+Engagement score: 323
+Highest engagement path to member 8 using DFS: [7, 2, 4, 10, 6, 8]
+Engagement score: 315
+Highest engagement path to member 9 using DFS: [7, 6, 8, 4, 10, 9]
+Engagement score: 294
+Highest engagement path to member 10 using DFS: [7, 8, 4, 2, 6, 10]
+Engagement score: 315
+Member 8: Follows 5 others, Followed by 5
+Likes given: {4: 9, 1: 9, 3: 0} (Total given: 18)
+Likes received: 18
+Comments given: {10: 9, 4: 7, 7: 5, 1: 11, 2: 7, 9: 6} (Total given: 45)
+Comments received: 45
+Comments received from: {1: 11, 2: 7, 4: 7, 7: 5, 9: 6, 10: 9}
+Engagement rate: 1260.00
+
+Shortest path to member 1 using BFS: 2 steps
+Path: [8, 9, 1]
+Shortest path to member 2 using BFS: 2 steps
+Path: [8, 7, 2]
+Shortest path to member 3 using BFS: 1 steps
+Path: [8, 3]
+Shortest path to member 4 using BFS: 1 steps
+Path: [8, 4]
+Shortest path to member 5 using BFS: 2 steps
+Path: [8, 7, 5]
+Shortest path to member 6 using BFS: 2 steps
+Path: [8, 7, 6]
+Shortest path to member 7 using BFS: 1 steps
+Path: [8, 7]
+Shortest path to member 9 using BFS: 1 steps
+Path: [8, 9]
+Shortest path to member 10 using BFS: 1 steps
+Path: [8, 10]
+Highest engagement path to member 1 using DFS: [8, 4, 2, 6, 10, 1]
+Engagement score: 325
+Highest engagement path to member 2 using DFS: [8, 4, 10, 1, 6, 2]
+Engagement score: 325
+Highest engagement path to member 3 using DFS: [8, 4, 2, 6, 10, 3]
+Engagement score: 318
+Highest engagement path to member 4 using DFS: [8, 10, 1, 6, 2, 4]
+Engagement score: 325
+Highest engagement path to member 5 using DFS: [8, 4, 2, 6, 3, 5]
+Engagement score: 316
+Highest engagement path to member 6 using DFS: [8, 4, 2, 10, 1, 6]
+Engagement score: 325
+Highest engagement path to member 7 using DFS: [8, 4, 2, 6, 3, 7]
+Engagement score: 323
+Highest engagement path to member 9 using DFS: [8, 4, 2, 6, 3, 9]
+Engagement score: 313
+Highest engagement path to member 10 using DFS: [8, 4, 2, 6, 3, 10]
+Engagement score: 318
+Member 9: Follows 5 others, Followed by 5
+Likes given: {7: 7, 6: 1, 8: 0} (Total given: 8)
+Likes received: 8
+Comments given: {7: 6, 4: 7, 5: 5} (Total given: 18)
+Comments received: 18
+Comments received from: {4: 7, 5: 5, 7: 6}
+Engagement rate: 520.00
+
+Shortest path to member 1 using BFS: 1 steps
+Path: [9, 1]
+Shortest path to member 2 using BFS: 1 steps
+Path: [9, 2]
+Shortest path to member 3 using BFS: 1 steps
+Path: [9, 3]
+Shortest path to member 4 using BFS: 1 steps
+Path: [9, 4]
+Shortest path to member 5 using BFS: 2 steps
+Path: [9, 7, 5]
+Shortest path to member 6 using BFS: 2 steps
+Path: [9, 7, 6]
+Shortest path to member 7 using BFS: 1 steps
+Path: [9, 7]
+Shortest path to member 8 using BFS: 2 steps
+Path: [9, 7, 8]
+Shortest path to member 10 using BFS: 2 steps
+Path: [9, 7, 10]
+Highest engagement path to member 1 using DFS: [9, 4, 2, 6, 10, 1]
+Engagement score: 288
+Highest engagement path to member 2 using DFS: [9, 1, 6, 8, 4, 2]
+Engagement score: 320
+Highest engagement path to member 3 using DFS: [9, 4, 2, 6, 8, 3]
+Engagement score: 313
+Highest engagement path to member 4 using DFS: [9, 2, 6, 8, 3, 4]
+Engagement score: 313
+Highest engagement path to member 5 using DFS: [9, 1, 8, 4, 2, 5]
+Engagement score: 289
+Highest engagement path to member 6 using DFS: [9, 1, 8, 4, 2, 6]
+Engagement score: 320
+Highest engagement path to member 7 using DFS: [9, 4, 2, 6, 8, 7]
+Engagement score: 310
+Highest engagement path to member 8 using DFS: [9, 1, 4, 2, 6, 8]
+Engagement score: 320
+Highest engagement path to member 10 using DFS: [9, 4, 2, 6, 8, 10]
+Engagement score: 305
+Member 10: Follows 7 others, Followed by 8
+Likes given: {2: 6, 6: 3} (Total given: 9)
+Likes received: 9
+Comments given: {6: 9, 2: 8, 7: 5, 9: 0} (Total given: 22)
+Comments received: 22
+Comments received from: {2: 8, 6: 9, 7: 5, 9: 0}
+Engagement rate: 387.50
+
+Shortest path to member 1 using BFS: 1 steps
+Path: [10, 1]
+Shortest path to member 2 using BFS: 2 steps
+Path: [10, 5, 2]
+Shortest path to member 3 using BFS: 1 steps
+Path: [10, 3]
+Shortest path to member 4 using BFS: 1 steps
+Path: [10, 4]
+Shortest path to member 5 using BFS: 1 steps
+Path: [10, 5]
+Shortest path to member 6 using BFS: 1 steps
+Path: [10, 6]
+Shortest path to member 7 using BFS: 1 steps
+Path: [10, 7]
+Shortest path to member 8 using BFS: 2 steps
+Path: [10, 5, 8]
+Shortest path to member 9 using BFS: 1 steps
+Path: [10, 9]
+Highest engagement path to member 1 using DFS: [10, 6, 8, 3, 9, 1]
+Engagement score: 265
+Highest engagement path to member 2 using DFS: [10, 1, 6, 8, 4, 2]
+Engagement score: 325
+Highest engagement path to member 3 using DFS: [10, 4, 2, 6, 8, 3]
+Engagement score: 318
+Highest engagement path to member 4 using DFS: [10, 6, 8, 3, 2, 4]
+Engagement score: 318
+Highest engagement path to member 5 using DFS: [10, 6, 8, 4, 2, 5]
+Engagement score: 308
+Highest engagement path to member 6 using DFS: [10, 1, 8, 4, 2, 6]
+Engagement score: 325
+Highest engagement path to member 7 using DFS: [10, 4, 2, 6, 8, 7]
+Engagement score: 315
+Highest engagement path to member 8 using DFS: [10, 1, 4, 2, 6, 8]
+Engagement score: 325
+Highest engagement path to member 9 using DFS: [10, 4, 2, 6, 8, 9]
+Engagement score: 305
