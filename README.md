@@ -37,7 +37,7 @@ This project analyzes social network interactions using various algorithms to ca
 2. Navigate to the project directory:
 
     ```sh
-    cd social_network
+    cd social-network
     
 
 3. Create a virtual environment:
